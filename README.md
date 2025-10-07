@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hello, world! 👋
 
 I'm **Ilya**, a third-year Computer Science student at RTU MIREA and a junior Go developer passionate about building scalable backend systems and Unix philosophy.
 
