@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**WithSoull/WithSoull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ilya**, a third-year Computer Science student at RTU MIREA and a junior Go developer passionate about building scalable backend systems and Unix philosophy.
 
-Here are some ideas to get you started:
+### 🚀 Currently
+- 🔭 **Actively seeking** opportunities to join a team as a Go developer
+- 🌱 Learning **Redis & Kafka** for distributed systems architecture
+- ⚙️ Building a [microservices messenger platform](https://github.com/WithSoull/messenger-overview) with gRPC
+- 💻 Crafted a custom [Neovim configuration](https://github.com/WithSoull/soull.nvim) from scratch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- Successfully completed internship at **Yandex Cloud** (MDB MySQL Team)
+
+### 🛠️ Tech Stack
+- **Languages:** Go, Python
+- **Tools:** Docker, gRPC, PostgreSQL, MySQL, MongoDB
+- **Environment:** Unix systems, Neovim, Tmux
+
+### 📫 Let's Connect
+Reach me on Telegram: [@grishinid](https://t.me/grishinid)
