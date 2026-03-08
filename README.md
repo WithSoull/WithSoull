@@ -3,8 +3,10 @@
 I'm **Ilya**, a third-year Computer Science student at RTU MIREA and a junior Go developer passionate about building scalable backend systems and Unix philosophy.
 
 ### 🚀 Currently
-- 🔭 **Actively seeking** opportunities to join a team as a Go developer
-- 📖 Reading the 5th chapter of DDIA M. Klepman about **replication**
+- Second internship at **Yandex Cloud** Postbox team
+- Reading the DDIA M. Klepman
+- Working on [in memory key value database like **Redis**](https://github.com/WithSoull/in-memory-database)
+- Working on [object storage like **S3**](https://github.com/alesplll/opens3-rebac)
 
 ### 💼 Done
 - Built a [microservices messenger platform](https://github.com/WithSoull/messenger-overview)
